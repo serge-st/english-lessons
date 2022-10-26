@@ -36,4 +36,4 @@
 
 ---
 
-[<<<](./RegularIrregularVerbs.md) | [>>>](./PresentSimple.md)
+[<<< Previous](./RegularIrregularVerbs.md) | [Next >>>](./PresentSimple.md)

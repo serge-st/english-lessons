@@ -32,4 +32,4 @@
 
 ---
 
-[<<<](./PresentSimple.md) | [>>>](./PresentSimpleGeneralSentenceExamples.md)
+[<<< Previous](./PresentSimple.md) | [Next >>>](./PresentSimpleGeneralSentenceExamples.md)

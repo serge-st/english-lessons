@@ -34,4 +34,4 @@
 
 ---
 
-[<<<](./PresentSimpleWithBe.md) | [>>>](./PresentSImpleForNowSentenceExamples.md)
+[<<< Previous](./PresentSimpleWithBe.md) | [Next >>>](./PresentSImpleForNowSentenceExamples.md)

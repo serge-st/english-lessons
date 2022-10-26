@@ -28,4 +28,4 @@ Stative verbs do not describe an action. They describe the state and are verbs s
 
 ---
 
-[<<<](./PresentSimpleGeneralSentenceExamples.md) | [>>>](./PresentSimpleBeSenstenceExamples.md)
+[<<<Previous ](./PresentSimpleGeneralSentenceExamples.md) | [Next >>>](./PresentSimpleBeSenstenceExamples.md)
