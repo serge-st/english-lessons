@@ -1,4 +1,4 @@
-# This is a page to summarize and practice basic English grammar.
+# This is a page to study and practice basic English grammar.
 
 ## Topics:
 
