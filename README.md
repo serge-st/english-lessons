@@ -1,5 +1,7 @@
 # This is a page to study and practice basic English grammar.
 
+The material posted here is not unique, I just compiled some of the essential topics (in my opinion), and separated them into chapters for the ease of obtaining the new information.
+
 ## Topics:
 
 1. [Regular And Irregular Verbs](./pages/RegularIrregularVerbs.md)
