@@ -10,8 +10,8 @@ The verb _be_ is always special. It is a stative verb, and we use it in the Pres
 1. You are so beautiful.
 1. We are hungry.
 1. It is a very steep mountain.
-1. John is tall.
-1. They are light travelers.
+1. Bob is tall.
+1. The Johnsons are light travelers.
 1. He is a very interesting person.
 1. Anna is a nurse.
 1. We are good friends.

@@ -5,7 +5,7 @@ Stative verbs do not describe an action. They describe the state and are verbs s
 
 1. The pen belongs to me.
 1. The coffee smells good.
-1. They seem to be upset.
+1. The girls seem to be upset.
 1. He understands the topic very well.
 1. Laura tries too hard to get a promotion.
 1. They think about problems too much.
