@@ -5,7 +5,7 @@ In English there are two types of verbs:
 1. Regular
 2. Irregular
 
-## Regular vs Irregular Verb
+## Regular vs Irregular Verbs
 
 If you can form the simple past tense of a verb simply by adding "-ed" or "-d" to it, then it is a **regular** verb.
 
