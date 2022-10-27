@@ -3,6 +3,13 @@
 For stative verbs, we can use the Present Simple to talk about now.
 Stative verbs do not describe an action. They describe the state and are verbs such as: _like, sound, belong to, need, seem_.
 
+Stative verbs often relate to:
+
+- **thoughts and opinions:** _agree, believe, doubt, guess, imagine, know, mean, recognise, remember, suspect, think, understand._
+- **feelings and emotions:** _dislike, hate, like, love, prefer, want, wish._
+- **senses and perceptions:** _appear, be, feel, hear, look, see, seem, smell, taste._
+- **possession and measurement:** _belong, have, measure, own, possess, weigh._
+
 1. The pen belongs to me.
 1. The coffee smells good.
 1. The girls seem to be upset.
