@@ -10,6 +10,8 @@ Stative verbs often relate to:
 - **senses and perceptions:** _appear, be, feel, hear, look, see, seem, smell, taste._
 - **possession and measurement:** _belong, have, measure, own, possess, weigh._
 
+### Examples:
+
 1. The pen belongs to me.
 1. The coffee smells good.
 1. The girls seem to be upset.
