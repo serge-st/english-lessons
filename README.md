@@ -11,5 +11,3 @@ The material posted here is not unique, I just compiled some of the essential to
 5. [Present Simple General Time Sentence Examples](./pages/PresentSimpleGeneralSentenceExamples.md)
 6. [Now Present Simple Sentence Examples](./pages/PresentSImpleForNowSentenceExamples.md)
 7. [Present Simple With The Main Verb Be](./pages/PresentSimpleBeSenstenceExamples.md)
-
-privet
