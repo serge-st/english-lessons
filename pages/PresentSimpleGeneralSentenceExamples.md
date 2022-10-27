@@ -18,7 +18,7 @@
 1. I live in New York.
 1. We do not work at night.
 1. Wealthy families often give money to charity.
-1. Usually, she leaves the office at 18.
+1. Usually, she leaves the office at 18:00.
 1. You watch TV on Friday evenings.
 1. We meet every Thursday.
 1. They collect garbage from the streets.
