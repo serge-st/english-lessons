@@ -23,4 +23,4 @@ The present tense uses the **base form** of the verb.
 
 ---
 
-[<<< Previous](./MostCommonVerbs.md) | [Next >>>](./pages/PresentSimpleGeneralSentenceExamples.md)
+[<<< Previous](./MostCommonVerbs.md) | [Next >>>](./PresentSimpleGeneralSentenceExamples.md)
