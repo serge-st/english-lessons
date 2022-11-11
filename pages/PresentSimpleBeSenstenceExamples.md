@@ -25,4 +25,4 @@ The verb _be_ is always special. It is a stative verb, and we use it in the Pres
 
 ---
 
-[<<< Previous](./PresentSImpleForNowSentenceExamples.md) |
+[<<< Previous](./PresentSImpleForNowSentenceExamples.md) | [Next >>>](./PastSimple.md)

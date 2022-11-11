@@ -11,3 +11,7 @@ The material posted here is not unique, I just compiled some of the essential to
 5. [Present Simple With The Main Verb Be](./pages/PresentSimpleWithBe.md)
 6. [Now Present Simple Sentence Examples](./pages/PresentSImpleForNowSentenceExamples.md)
 7. [Present Simple With The Main Verb Be](./pages/PresentSimpleBeSenstenceExamples.md)
+8. [Past Simple](./pages/PastSimple.md)
+9. [Past Simple Sentence Examples](./pages/PastSimpleSentenceExamples.md)
+10. [Past Simple - Series of Completed Actions](./pages/PastSimpleSeriesOfActionsExample.md)
+11. [Past Simple With The Main Verb Be](./pages/PastSimpleWithBeSentenceExamples.md)
