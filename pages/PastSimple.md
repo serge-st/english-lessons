@@ -33,4 +33,4 @@ Past simple tense uses **the second** form of the verb:
 
 ---
 
-[<<< Previous](./PresentSimpleBeSenstenceExamples.md) | [Next >>>](./PastSimpleSentenceExamples.md)
+[<<< Previous](./PresentSimpleBeSenstenceExamples.md) | [Next >>>](./PastSimpleQuestions.md)
