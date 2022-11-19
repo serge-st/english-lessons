@@ -21,7 +21,7 @@ In other words, explaining some action that started and finished at a specific t
 11. This ship sailed across the ocean in 1981.
 12. I lived in Norway in 2010.
 13. She ran a marathon in March.
-14. The Moon was red last night.
+14. The Moon glowed red last night.
 15. Sam studied English in 2010.
 16. I went to the movies last month.
 17. They uploaded the fix last week.
