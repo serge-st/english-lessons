@@ -1,4 +1,4 @@
-### Past Simple Questions
+# Past Simple Questions
 
 | #   | Base Form | Simple Past | Past Participle |
 | --- | --------- | ----------- | --------------- |

@@ -19,4 +19,4 @@ We use the simple past to list a series of completed actions in the past. These 
 
 ---
 
-[<<< Previous](./PastSimpleSentenceExamples.md) | [Next >>>](./PastSimpleWithBeSentenceExamples.md)
+[<<< Previous](./PastSimpleMoreExamples.md) | [Next >>>](./PastSimpleWithBeSentenceExamples.md)

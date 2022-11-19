@@ -37,4 +37,4 @@ In other words, explaining some action that started and finished at a specific t
 
 ---
 
-[<<< Previous](./PastSimpleQuestions.md) | [Next >>>](./PastSimpleSeriesOfActionsExample.md)
+[<<< Previous](./PastSimpleQuestions.md) | [Next >>>](./PastSimpleMoreExamples.md)
