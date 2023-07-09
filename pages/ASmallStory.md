@@ -26,7 +26,7 @@ _Some facts about Stan:_ He is 28, he work**S** out a lot and play**S** video ga
 
 _**Verbs:**_ `work out, play, spend`
 
-M.: "Yeah, I like them too, but even though my wife and kids are now away, recently I still don't have much time to play."
+M.: "Yeah, I like video games too, but even though my wife and kids are now away, recently I still don't have much time to play."
 
 _**Verbs:**_ `like, have, play`
 
