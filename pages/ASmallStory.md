@@ -42,9 +42,9 @@ _It uses **the second** form of the verb._
 
 ---
 
-S.: "Oh, yesterday I played the entire day. What did you do yesterday?"
+S.: "I see... Yesterday my rehearsal got canceled so I played video games the entire day. What did you do yesterday?"
 
-_**Verbs:**_ `play, do`
+_**Verbs:**_ `cancel, play, do`
 
 M.: "Yesterday was quite exciting. I woke up, made breakfast, and went for a walk with my dog. Then I did some work for my project and had lunch out. Later that day I met with my friends, we saw a movie together, and afterward, we stayed at a cafe a just chatted till midnight."
 
