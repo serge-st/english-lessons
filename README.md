@@ -17,3 +17,4 @@ The material posted here is not unique, I just compiled some of the essential to
 11. [More Past Simple Examples](./pages/PastSimpleMoreExamples.md)
 12. [Past Simple - Series of Completed Actions](./pages/PastSimpleSeriesOfActionsExample.md)
 13. [Past Simple With The Main Verb Be](./pages/PastSimpleWithBeSentenceExamples.md)
+14. [A Small Story](./pages/ASmallStory.md)
