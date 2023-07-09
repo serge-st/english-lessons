@@ -16,23 +16,23 @@ S.: "Hi Matt!"
 M.: "We work together a lot, you seem like quite an interesting person and I want to know a bit more about you.
 Do you like video games?"
 
-**Verbs:** `work, seem, want, know, like`
+_**Verbs:**_ `work, seem, want, know, like`
 
 S.: "Yes, I do, I love video games! And what about you?"
 
-**Verbs:** `do, love`
+_**Verbs:**_ `do, love`
 
-Some facts about Stan: He is 28, he work**S** out a lot and play**S** video games. Stan also play**S** drums in a band and spend**S** weekends hiking.
+_Some facts about Stan:_ He is 28, he work**S** out a lot and play**S** video games. Stan also play**S** drums in a band and spend**S** weekends hiking.
 
-**Verbs:** `work out, play, spend`
+_**Verbs:**_ `work out, play, spend`
 
 M.: "Yeah, I like them too, but even though my wife and now kids are away, recently I still don't have much time to play."
 
-**Verbs:** `like, have, play`
+_**Verbs:**_ `like, have, play`
 
-Some facts about Matt: He is 35, married, **has** (to have) 2 kids and a dog. Matt want**S** a promotion so on weekends he work**S** on a personal project.
+_Some facts about Matt:_ He is 35, married, **has** (to have) 2 kids and a dog. Matt want**S** a promotion so on weekends he work**S** on a personal project.
 
-**Verbs:** `have, want, work`
+_**Verbs:**_ `have, want, work`
 
 ---
 
@@ -44,15 +44,15 @@ _It uses **the second** form of the verb._
 
 S.: "Oh, yesterday I played the entire day. What did you do yesterday?"
 
-**Verbs:** `play, do`
+_**Verbs:**_ `play, do`
 
 M.: "Yesterday was quite exciting. I woke up, made breakfast, and went for a walk with my dog. Then I did some work for my project and had lunch out. Later that day I met with my friends, we saw a movie together, and afterward, we stayed at a cafe a just chatted till midnight."
 
-**Verbs:** `is, wake up, make, go, do, have, meet, see, stay, chat`
+_**Verbs:**_ `is, wake up, make, go, do, have, meet, see, stay, chat`
 
 S.: "Wow, you really managed to do a lot of things!"
 
-**Verbs:** `manage`
+_**Verbs:**_ `manage`
 
 ---
 
