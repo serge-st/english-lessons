@@ -43,4 +43,4 @@
 
 ---
 
-[<<< Previous](./PastSimpleSeriesOfActionsExample.md) |
+[<<< Previous](./PastSimpleSeriesOfActionsExample.md) | [Next >>>](./ASmallStory.md)
