@@ -1,6 +1,6 @@
 # This is a page to study and practice basic English grammar.
 
-The material posted here is not unique, I just compiled some of the essential topics (in my opinion), and separated them into chapters for the ease of obtaining the new information.
+The material posted here is not unique, I just compiled some of the essential topics (in my opinion) and separated them into chapters for the ease of obtaining the new information.
 
 ## Topics:
 
@@ -18,3 +18,4 @@ The material posted here is not unique, I just compiled some of the essential to
 12. [Past Simple - Series of Completed Actions](./pages/PastSimpleSeriesOfActionsExample.md)
 13. [Past Simple With The Main Verb Be](./pages/PastSimpleWithBeSentenceExamples.md)
 14. [A Small Story](./pages/ASmallStory.md)
+15. [Past Simple Cheat Sheet](./pages/PastSimpleCheatSheet.md)

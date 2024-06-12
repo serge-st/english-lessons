@@ -56,4 +56,4 @@ _**Verbs:**_ `manage`
 
 ---
 
-[<<< Previous](./PastSimpleWithBeSentenceExamples.md) | [Next >>>]
+[<<< Previous](./PastSimpleWithBeSentenceExamples.md) | [Next >>>](./PastSimpleCheatSheet.md)
